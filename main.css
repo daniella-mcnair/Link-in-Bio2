@@ -1,0 +1,27 @@
+body {
+  background-color: #6162A;
+  background-image: url("henry-co-mjPs0heWsek-unsplash.jpg" )
+}
+
+.btn{
+  background-color: #06162A;
+  border: #06162A;
+  margin: 15px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.btn btn-primary {
+  
+  
+}
+
+.myImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  margin-bottom: 25px;
+  border 5px;
+  border-radius:15px;
+}
